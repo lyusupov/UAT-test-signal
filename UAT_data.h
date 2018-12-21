@@ -1,0 +1,5 @@
+#ifndef UAT_DATA
+
+#define UAT_DATA    "0d1abba154d8ec198ba602f0800000000074c28d855bfd0b4aa5c2a0000000000000"
+
+#endif
