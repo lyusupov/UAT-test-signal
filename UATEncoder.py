@@ -114,7 +114,7 @@ if __name__ == "__main__":
     argc = len(argv)
     if argc != 6:
       print
-      print 'Usage: '+ argv[0] +' <CallSign> <ICAO> <Latitude> <Longtitude> <Altitude (ft)>'
+      print 'Usage: '+ argv[0] +' <CallSign> <ICAO> <Latitude> <Longitude> <Altitude (ft)>'
       print
       print '    Example: '+ argv[0] +' RAMPTEST 0x1ABBA1 59.6583 17.9617 137.8'
       print
