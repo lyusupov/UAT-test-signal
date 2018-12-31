@@ -97,7 +97,7 @@ Reading samples in async mode...
 
 ## Data customization
 
-1. Execute *UATEncoder.py* script with `<CallSign>` `<ICAO>` `<Latitude>` `<Longtitude>` `<Altitude>` arguments:
+1. Execute *UATEncoder.py* script with `<CallSign>` `<ICAO>` `<Latitude>` `<Longitude>` `<Altitude>` arguments:
 ```
 $ python UATEncoder.py RAMPTEST 0x1ABBA1 59.6583 17.9617 137.8
 
