@@ -82,7 +82,7 @@
 /* Packet TX Configuration */
 #define PAYLOAD_LENGTH      (LONG_FRAME_BYTES + sizeof(UAT_SYNCWORD_LSB))
 
-#define PACKET_INTERVAL     1000000     /* Set packet interval to 1000000us or 1000ms */
+#define PACKET_INTERVAL     999000     /* Set packet interval to 1000000us or 1000ms */
 //#define PACKET_INTERVAL     500000    /* Set packet interval to 500000us or 500ms */
 //#define PACKET_INTERVAL     200000    /* Set packet interval to 200000us or 200ms */
 
