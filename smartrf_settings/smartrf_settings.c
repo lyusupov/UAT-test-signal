@@ -11,7 +11,7 @@
 // Address: 0 
 // Address0: 0xAA 
 // Address1: 0xBB 
-// Frequency: 978.00000 MHz
+// Frequency: 915.00000 MHz
 // Data Format: Serial mode disable 
 // Deviation: 625.000 kHz
 // Fixed Packet Length: 49 
@@ -133,7 +133,7 @@ rfc_CMD_PROP_RADIO_DIV_SETUP_t RF_cmdPropRadioDivSetup =
     .config.bNoFsPowerUp = 0x0,
     .txPower = 0x003F,
     .pRegOverride = pOverrides,
-    .centerFreq = 0x03D2,
+    .centerFreq = 0x0393,
     .intFreq = 0x8000,
     .loDivider = 0x05
 };
@@ -153,7 +153,7 @@ rfc_CMD_FS_t RF_cmdFs =
     .startTrigger.pastTrig = 0x0,
     .condition.rule = 0x1,
     .condition.nSkip = 0x0,
-    .frequency = 0x03D2,
+    .frequency = 0x0393,
     .fractFreq = 0x0000,
     .synthConf.bTxMode = 0x0,
     .synthConf.refFreq = 0x0,

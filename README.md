@@ -1,4 +1,4 @@
-# UAT (ADS-B 978 MHz) test signal generator
+# UAT (ADS-B 978) test signal generator
 
 ## Disclaimer
 
@@ -7,7 +7,7 @@ This low power UAT test source is designed for a lab or an aircraft hangar use o
 ## Legitimate use
 
 Radio being used in the project is rated for 14 dBm (25 mW) of maximum transmit power.<br>
-FCC compliant built-in RF filter reduces the power even more, down to approximately 1 mW on 978 MHz.<br> 
+FCC compliant built-in RF filter reduces the power even more, down to approximately 1 mW on the reference frequency.<br>
 This power is sufficient to cover an area of just only few meters around the transmitter.<br>
 
 ## Validation
@@ -15,7 +15,7 @@ This power is sufficient to cover an area of just only few meters around the tra
 ### Raw data
 
 ```
-pi@raspberrypi:/run/tmp/dump978-master $ rtl_sdr -f 978000000 -s 2083334 -g 8 - | ./dump978
+pi@raspberrypi:/run/tmp/dump978-master $ rtl_sdr -f 915000000 -s 2083334 -g 8 - | ./dump978
 Found 1 device(s):
   0:  Generic, RTL2832U, SN: 77771111153705700
 
@@ -24,7 +24,7 @@ Found Rafael Micro R820T tuner
 Exact sample rate is: 2083334.141630 Hz
 [R82XX] PLL not locked!
 Sampling at 2083334 S/s.
-Tuned to 978000000 Hz.
+Tuned to 915000000 Hz.
 Tuner gain set to 7.70 dB.
 Reading samples in async mode...
 -0d1abba154d8ec198ba602f0800000000074c28d855bfd0b4aa5c2a0000000000000;
@@ -34,7 +34,7 @@ Reading samples in async mode...
 ### Text
 
 ```
-pi@raspberrypi:/run/tmp/dump978-master $ rtl_sdr -f 978000000 -s 2083334 -g 8 - | ./dump978 | ./uat2text
+pi@raspberrypi:/run/tmp/dump978-master $ rtl_sdr -f 915000000 -s 2083334 -g 8 - | ./dump978 | ./uat2text
 Found 1 device(s):
   0:  Generic, RTL2832U, SN: 77771111153705700
 
@@ -43,7 +43,7 @@ Found Rafael Micro R820T tuner
 Exact sample rate is: 2083334.141630 Hz
 [R82XX] PLL not locked!
 Sampling at 2083334 S/s.
-Tuned to 978000000 Hz.
+Tuned to 915000000 Hz.
 Tuner gain set to 7.70 dB.
 Reading samples in async mode...
 HDR:
@@ -78,7 +78,7 @@ AUXSV:
 ### Map
 
 ```
-pi@raspberrypi:/run/tmp $ rtl_sdr -f 978000000 -s 2083334 -g 8 - | ./dump978-master/dump978 | ./dump978-master/uat2json /run/tmp/dump1090-master/public_html/data/
+pi@raspberrypi:/run/tmp $ rtl_sdr -f 915000000 -s 2083334 -g 8 - | ./dump978-master/dump978 | ./dump978-master/uat2json /run/tmp/dump1090-master/public_html/data/
 Found 1 device(s):
   0:  Generic, RTL2832U, SN: 77771111153705700
 
@@ -87,7 +87,7 @@ Found Rafael Micro R820T tuner
 Exact sample rate is: 2083334.141630 Hz
 [R82XX] PLL not locked!
 Sampling at 2083334 S/s.
-Tuned to 978000000 Hz.
+Tuned to 915000000 Hz.
 Tuner gain set to 7.70 dB.
 Reading samples in async mode...
 ...
