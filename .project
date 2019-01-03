@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>rfPacketTx_CC1310_LAUNCHXL_tirtos_ccs</name>
+	<name>UAT-test-signal</name>
 	<comment></comment>
 	<projects>
 		<project>tirtos_builds_CC1310_LAUNCHXL_release_ccs</project>
