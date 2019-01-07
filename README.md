@@ -30,7 +30,7 @@ TBD
 
 1) either:
 - download this CCS project from GitHub, then upload it into your [TI CCS Cloud IDE](https://dev.ti.com/), or ;
-- if you have a GitHub account: "fork" this project into your space, then import directly into TI CCS Cloud IDE.
+- if you have a GitHub account: "fork" this project into your GitHub space, then import directly into TI CCS Cloud IDE.
 2) build, then run the firmware on your CC1310 hardware with assistance of [TI Cloud Agent](http://processors.wiki.ti.com/index.php/TI_Cloud_Agent) and [TI Cloud Agent Bridge](https://chrome.google.com/webstore/detail/ticloudagent-bridge/pfillhniocmjcapelhjcianojmoidjdk) plug-in for Google Chrome browser.
 
 ## Validation
