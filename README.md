@@ -10,6 +10,29 @@ Radio being used in the project is rated for 14 dBm (25 mW) of maximum transmit 
 FCC compliant built-in RF filter reduces the power even more, down to approximately 1 mW on the reference frequency.<br>
 This power is sufficient to cover an area of just only few meters around the transmitter.<br>
 
+## Hardware
+
+### Variant 1. Basic.
+
+[TI SimpleLink CC1310 LaunchPad kit (915 MHz)](http://www.ti.com/tool/LAUNCHXL-CC1310)
+
+<br>
+
+<img src="http://processors.wiki.ti.com/images/2/28/CC2650LPV1.JPG" height="427" width="262">
+
+### Variant 2. Advanced.
+
+TBD
+
+## Firmware
+
+### Build instructions
+
+1) either:
+- download this CCS project from GitHub, then upload it into your [TI CCS Cloud IDE](https://dev.ti.com/), or ;
+- if you have a GitHub account: "fork" this project into your space, then import directly into TI CCS Cloud IDE.
+2) build, then run the firmware on your CC1310 hardware with assistance of [TI Cloud Agent](http://processors.wiki.ti.com/index.php/TI_Cloud_Agent) and [TI Cloud Agent Bridge](https://chrome.google.com/webstore/detail/ticloudagent-bridge/pfillhniocmjcapelhjcianojmoidjdk) plug-in for Google Chrome browser.
+
 ## Validation
 
 ### Raw data
