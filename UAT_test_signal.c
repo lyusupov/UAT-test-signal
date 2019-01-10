@@ -185,6 +185,15 @@ void encode_rs_char(void *p,data_t *data, data_t *parity){
 
 }
 
+int decode_rs_char(void *p, data_t *data, int *eras_pos, int no_eras){
+  int retval;
+  struct rs *rs = (struct rs *)p;
+
+#include "fec/decode_rs.h"
+
+  return retval;
+}
+
 static void *rs_uplink;
 static void *rs_adsb_short;
 static void *rs_adsb_long;
