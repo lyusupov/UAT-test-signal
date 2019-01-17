@@ -26,13 +26,13 @@ This power is sufficient to cover an area of just only few meters around the tra
 
 Number|Part|Qty|Picture|Source
 ---|---|---|---|---
-1|PCB|1|<img src="https://github.com/lyusupov/UAT-test-signal/raw/master/notes/pics/SoftRF-UAT-PCB.jpg" height="517" width="400">|&nbsp;TBD&nbsp; <!-- <a href="https://PCBs.io/share/rYeN0"><img src="https://s3.amazonaws.com/pcbs.io/share.png" alt="Order from PCBs.io"></img></a>  -->
-2|Ebyte E70-915T14S RF module|1|![](https://github.com/lyusupov/UAT-test-signal/raw/master/notes/pics/E70-915T14S.jpg)|[AliExpress](http://s.click.aliexpress.com/e/nysD1eu)
-3|Female SMA-KHD|1|![](https://github.com/lyusupov/SoftRF/raw/master/documents/images/bom/sma-khd.jpg)|[AliExpress](https://www.aliexpress.com/item/10-Pcs-SMA-Female-Jack-Solder-Edge-1-6mm-Space-PCB-Mount-Straight-RF-Connector-New/32842094243.html)
+1|PCB|1|<img src="https://github.com/lyusupov/UAT-test-signal/raw/master/notes/pics/SoftRF-UAT-PCB.jpg" height="388" width="300">|&nbsp;TBD&nbsp; <!-- <a href="https://PCBs.io/share/rYeN0"><img src="https://s3.amazonaws.com/pcbs.io/share.png" alt="Order from PCBs.io"></img></a>  -->
+2|Ebyte E70-915T14S<br>RF module|1|![](https://github.com/lyusupov/UAT-test-signal/raw/master/notes/pics/E70-915T14S.jpg)|[AliExpress](http://s.click.aliexpress.com/e/nysD1eu)
+3|Female SMA-KHD|1|<img src="https://github.com/lyusupov/SoftRF/raw/master/documents/images/bom/sma-khd.jpg" height="300" width="300">|[AliExpress](https://www.aliexpress.com/item/10-Pcs-SMA-Female-Jack-Solder-Edge-1-6mm-Space-PCB-Mount-Straight-RF-Connector-New/32842094243.html)
 4|2x7 female header 2.54mm|1|![](https://github.com/lyusupov/SoftRF/blob/master/documents/images/bom/f2x7.jpg)|Local
-5|1x40 male header 2.54mm|1|![](https://github.com/lyusupov/SoftRF/blob/master/documents/images/bom/m40.jpg)|[AliExpress](https://www.aliexpress.com/item/10pcs-40-Pin-1x40-Single-Row-Male-2-54-Breakable-Pin-Header-Connector-Strip-for-Arduino/32806313091.html)
+5|1x40 male header 2.54mm|1|<img src="https://github.com/lyusupov/SoftRF/blob/master/documents/images/bom/m40.jpg" height="283" width="200">|[AliExpress](https://www.aliexpress.com/item/10pcs-40-Pin-1x40-Single-Row-Male-2-54-Breakable-Pin-Header-Connector-Strip-for-Arduino/32806313091.html)
 6|XDS110 cJTAG debug tool (clone)|1|![](https://github.com/lyusupov/UAT-test-signal/raw/master/notes/pics/XDS110_clone.jpg)|[AliExpress](https://www.aliexpress.com/item/-/32938193571.html)
-7|40 pcs. female DuPont jumper wires|1|![](https://github.com/lyusupov/SoftRF/blob/master/documents/images/bom/40DuPont.jpg)|[AliExpress](http://www.aliexpress.com/item/40-pcs-30cm-1p-1p-female-to-female-2-54mm-Spacing-Jumper-Wire-Dupont-Cable/1905309688.html) 
+7|40 pcs. female DuPont jumper wires|1|<img src="https://github.com/lyusupov/SoftRF/blob/master/documents/images/bom/40DuPont.jpg" height="237" width="300">|[AliExpress](http://www.aliexpress.com/item/40-pcs-30cm-1p-1p-female-to-female-2-54mm-Spacing-Jumper-Wire-Dupont-Cable/1905309688.html) 
 
 
 
