@@ -26,7 +26,7 @@ This power is sufficient to cover an area of just only few meters around the tra
 
 Number|Part|Qty|Picture|Source
 ---|---|---|---|---
-1|PCB|1|![](https://github.com/lyusupov/UAT-test-signal/raw/master/notes/pics/SoftRF-UAT-PCB.jpg)|&nbsp;TBD&nbsp; <!-- <a href="https://PCBs.io/share/rYeN0"><img src="https://s3.amazonaws.com/pcbs.io/share.png" alt="Order from PCBs.io"></img></a>  -->
+1|PCB|1|<img src="https://github.com/lyusupov/UAT-test-signal/raw/master/notes/pics/SoftRF-UAT-PCB.jpg" height="517" width="400">|&nbsp;TBD&nbsp; <!-- <a href="https://PCBs.io/share/rYeN0"><img src="https://s3.amazonaws.com/pcbs.io/share.png" alt="Order from PCBs.io"></img></a>  -->
 2|Ebyte E70-915T14S RF module|1|![](https://github.com/lyusupov/UAT-test-signal/raw/master/notes/pics/E70-915T14S.jpg)|[AliExpress](http://s.click.aliexpress.com/e/nysD1eu)
 3|Female SMA-KHD|1|![](https://github.com/lyusupov/SoftRF/raw/master/documents/images/bom/sma-khd.jpg)|[AliExpress](https://www.aliexpress.com/item/10-Pcs-SMA-Female-Jack-Solder-Edge-1-6mm-Space-PCB-Mount-Straight-RF-Connector-New/32842094243.html)
 4|2x7 female header 2.54mm|1|![](https://github.com/lyusupov/SoftRF/blob/master/documents/images/bom/f2x7.jpg)|Local
