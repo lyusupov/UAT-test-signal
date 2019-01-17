@@ -137,6 +137,19 @@ Reading samples in async mode...
 ![](https://github.com/lyusupov/SoftRF/raw/master/documents/images/UATbridge_Stratux.JPG)
 <br>
 
+## Signal
+
+[IQ file](https://github.com/lyusupov/UAT-test-signal/raw/master/notes/UAT_977MHz-8_333_MSps.wav) (WAV).<br>
+Taken at base frequency: 977 MHz . Sampling rate: 8.333 MSps.
+
+![](https://github.com/lyusupov/UAT-test-signal/raw/master/notes/pics/UAT_Signal.JPG)
+
+
+
+![](https://github.com/lyusupov/UAT-test-signal/raw/master/notes/pics/UAT_Spectrum.JPG)
+
+
+
 ## Data customization
 
 1. Execute *UATEncoder.py* script with `<CallSign>` `<ICAO>` `<Latitude>` `<Longitude>` `<Altitude>` arguments:
