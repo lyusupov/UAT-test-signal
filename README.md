@@ -22,6 +22,9 @@ This power is sufficient to cover an area of just only few meters around the tra
 
 ### Variant 2. Advanced.
 
+Schematics of the adapter and Gerber files of the PCB will be published soon after I'll receive the PCB samples<br>
+and will make sure that the design has no any critical issues.
+
 #### Bill of materials
 
 Number|Part|Qty|Picture|Source
