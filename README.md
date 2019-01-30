@@ -20,7 +20,15 @@ This power is sufficient to cover an area of just only few meters around the tra
 
 <img src="http://processors.wiki.ti.com/images/2/28/CC2650LPV1.JPG" height="427" width="262">
 
+<br>
+
 ### Variant 2. Advanced.
+
+<br>
+
+<img src="https://github.com/lyusupov/SoftRF/raw/master/documents/images/SoftRF-UAT-1.jpg" height="262" width="400"><br>
+<br>
+<img src="https://github.com/lyusupov/SoftRF/raw/master/documents/images/SoftRF-UAT-2.jpg" height="199" width="400"><br>
 
 Schematics of the adapter and Gerber files of the PCB will be published soon after I'll receive the PCB samples<br>
 and will make sure that the design has no any critical issues.
