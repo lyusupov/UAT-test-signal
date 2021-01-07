@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #
 
-# Copyright (C) 2018-2020 Linar Yusupov
+# Copyright (C) 2018-2021 Linar Yusupov
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

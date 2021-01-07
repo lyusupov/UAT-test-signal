@@ -2,7 +2,7 @@
  * Copyright (c) 2017, Texas Instruments Incorporated
  * All rights reserved.
  *
- * Copyright (C) 2018-2020 Linar Yusupov
+ * Copyright (C) 2018-2021 Linar Yusupov
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions
