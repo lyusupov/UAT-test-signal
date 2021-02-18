@@ -18,7 +18,7 @@ This power is sufficient to cover an area of just only few meters around the tra
 
 <br>
 
-<img src="https://processors.wiki.ti.com/images/2/28/CC2650LPV1.JPG" height="427" width="262">
+<img src="https://www.ti.com/diagrams/launchxl-cc1310_launchxl-cc1310-angled_(1).jpg">
 
 <br>
 
